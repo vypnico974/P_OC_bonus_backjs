@@ -1,7 +1,6 @@
-/** https://devdocs.io/  doc pour les propriétés utilisées
- * 
- * 
- * 
+/** tutoriel : https://grafikart.fr/tutoriels/nodejs-filesystem-2083#autoplay
+ * https://devdocs.io/  doc pour les méthodes utilisée * 
+ * lire et écrire des fichiers * 
  */
 
 
